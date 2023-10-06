@@ -155,8 +155,6 @@ input[type="text" i] {
 
  .search-form__pseudo-checkbox {
   display: inline;
-  /*justify-content: center;*/
-  /*align-items: center;*/
   width: 19px;
   height: 19px;
   background-color: transparent;
