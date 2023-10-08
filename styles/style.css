@@ -41,8 +41,9 @@ ol {
 }
 
 .content {
+  width: 1140px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: flex-end;
   gap: 30px;
 }
